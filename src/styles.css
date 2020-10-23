@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'bulma/css/bulma.css';
+
+body{
+    display: flex;
+    font-size: 18px;
+    margin-top: 100px; 
+    justify-content: space-evenly;
+}
